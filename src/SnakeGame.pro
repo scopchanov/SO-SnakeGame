@@ -1,4 +1,4 @@
-QT += core gui widgets
+QT += gui widgets
 
 TARGET = SnakeGame
 TEMPLATE = app
@@ -12,4 +12,5 @@ SOURCES += \
 HEADERS += \
     MainWindow.h \
     Snake.h \
-    Dot.h
+    Dot.h \
+    GameGlobals.h

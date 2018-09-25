@@ -7,8 +7,9 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-app/build/
-app/deploy/
+build/
+deploy/
+doc/
 misc/
 
 # Qt
